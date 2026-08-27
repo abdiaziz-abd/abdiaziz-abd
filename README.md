@@ -259,28 +259,6 @@ Personal portfolio covering drilling operations experience, research and field-e
 
 ---
 
-### `$ gh api users/abdiaziz-abd`
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdiaziz-abd&theme=transparent" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdiaziz-abd&background=0A0F08&border=1F2E16&stroke=1F2E16&ring=CAFF3C&fire=CAFF3C&currStreakNum=CAFF3C&sideNums=8AFF57&currStreakLabel=CAFF3C&sideLabels=7D9B5E&dates=7D9B5E&excludeDaysLabel=7D9B5E" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdiaziz-abd&theme=transparent" alt="Repositories per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdiaziz-abd&theme=transparent" alt="Most committed language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdiaziz-abd&theme=transparent" alt="GitHub stats" />
-</div>
-
-<div align="center">
-  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdiaziz-abd&theme=transparent&utcOffset=3" alt="Productive time of day" />
-</div>
-
----
-
 ### `$ ./snake.sh`
 
 <div align="center">
