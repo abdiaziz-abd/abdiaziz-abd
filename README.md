@@ -1,17 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:8A3A0E,100:E85D04&height=190&section=header&text=Abdiaziz%20Mohamed%20Abdi&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Petroleum%20Engineer%20(MSc)%20%C2%B7%20Drilling%20%26%20Well%20Operations%20%C2%B7%20HSE&descSize=15&descAlignY=56" alt="Abdiaziz Mohamed Abdi" />
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=210&fontColor=CAFF3C&text=%3E_%20Abdiaziz%20Mohamed%20Abdi&fontSize=38&fontAlignY=34&desc=Petroleum%20Engineer%20(MSc)%20%C2%B7%20Drilling%20%26%20Well%20Operations%20%C2%B7%20HSE&descColor=8AFF57&descSize=15&descAlignY=52&animation=fadeIn" alt="Abdiaziz Mohamed Abdi — Petroleum Engineer (MSc)" />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdiaziz-petroleum"><img src="https://img.shields.io/badge/LinkedIn-abdiaziz--petroleum-0D1117?style=flat-square&logo=linkedin&logoColor=E85D04" alt="LinkedIn" /></a>
-  <a href="https://abdiaziz-abd.github.io"><img src="https://img.shields.io/badge/Portfolio-abdiaziz--abd.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=E85D04" alt="Portfolio" /></a>
-  <a href="mailto:anwernuur@gmail.com"><img src="https://img.shields.io/badge/Email-anwernuur%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=E85D04" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Doha,%20Qatar-0D1117?style=flat-square&logo=googlemaps&logoColor=E85D04" alt="Doha, Qatar" />
+  <a href="https://www.linkedin.com/in/abdiaziz-petroleum"><img src="https://img.shields.io/badge/LinkedIn-abdiaziz--petroleum-0A0F08?style=flat-square&logo=linkedin&logoColor=CAFF3C&labelColor=0A0F08" alt="LinkedIn" /></a>
+  <a href="https://abdiaziz-abd.github.io"><img src="https://img.shields.io/badge/Portfolio-abdiaziz--abd.github.io-0A0F08?style=flat-square&logo=githubpages&logoColor=CAFF3C&labelColor=0A0F08" alt="Portfolio" /></a>
+  <a href="mailto:anwernuur@gmail.com"><img src="https://img.shields.io/badge/Email-anwernuur%40gmail.com-0A0F08?style=flat-square&logo=gmail&logoColor=CAFF3C&labelColor=0A0F08" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Doha,%20Qatar-0A0F08?style=flat-square&logo=googlemaps&logoColor=CAFF3C&labelColor=0A0F08" alt="Doha, Qatar" />
 </p>
 
 ---
 
-### About
+### `>_` About
 
 Petroleum engineer with an MSc and rig-floor experience from a live spud-to-TD drilling
 campaign in Somalia — roughly 90 operational days with a 100% zero-incident record.
@@ -25,26 +25,26 @@ and I build the instrumentation and web tooling that makes that work legible.
 
 ---
 
-### Toolbox
+### `>_` Toolbox
 
 **Engineering &amp; simulation**
 
 <p>
-  <img src="https://img.shields.io/badge/Petrel-0D1117?style=for-the-badge" alt="Petrel" />
-  <img src="https://img.shields.io/badge/Landmark-0D1117?style=for-the-badge" alt="Landmark" />
-  <img src="https://img.shields.io/badge/AutoCAD-0D1117?style=for-the-badge&logo=autodesk&logoColor=E85D04" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=E85D04" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Petrel-0A0F08?style=for-the-badge&labelColor=0A0F08" alt="Petrel" />
+  <img src="https://img.shields.io/badge/Landmark-0A0F08?style=for-the-badge&labelColor=0A0F08" alt="Landmark" />
+  <img src="https://img.shields.io/badge/AutoCAD-0A0F08?style=for-the-badge&logo=autodesk&logoColor=CAFF3C&labelColor=0A0F08" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/MATLAB-0A0F08?style=for-the-badge&labelColor=0A0F08" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Arduino-0A0F08?style=for-the-badge&logo=arduino&logoColor=CAFF3C&labelColor=0A0F08" alt="Arduino" />
 </p>
 
 **Code &amp; web**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E85D04" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E85D04" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=E85D04" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E85D04" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E85D04" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-0A0F08?style=for-the-badge&logo=python&logoColor=CAFF3C&labelColor=0A0F08" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-0A0F08?style=for-the-badge&logo=html5&logoColor=CAFF3C&labelColor=0A0F08" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0A0F08?style=for-the-badge&logo=css3&logoColor=CAFF3C&labelColor=0A0F08" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0F08?style=for-the-badge&logo=javascript&logoColor=CAFF3C&labelColor=0A0F08" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-0A0F08?style=for-the-badge&logo=git&logoColor=CAFF3C&labelColor=0A0F08" alt="Git" />
 </p>
 
 **Field practice**
@@ -53,7 +53,7 @@ and I build the instrumentation and web tooling that makes that work legible.
 
 ---
 
-### Featured work
+### `>_` Featured work
 
 <table>
   <tr>
@@ -61,18 +61,18 @@ and I build the instrumentation and web tooling that makes that work legible.
       <h4><a href="https://github.com/abdiaziz-abd/Downhole-Sensor">Downhole Permeability Sensor</a></h4>
       <p>Working 12-inch prototype that measures formation permeability in-well, presented as an interactive scrollytelling page.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E85D04" alt="HTML" />
-        <img src="https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=E85D04" alt="Arduino" />
-        <img src="https://img.shields.io/badge/Instrumentation-0D1117?style=flat-square" alt="Instrumentation" />
+        <img src="https://img.shields.io/badge/HTML-0A0F08?style=flat-square&logo=html5&logoColor=CAFF3C&labelColor=0A0F08" alt="HTML" />
+        <img src="https://img.shields.io/badge/Arduino-0A0F08?style=flat-square&logo=arduino&logoColor=CAFF3C&labelColor=0A0F08" alt="Arduino" />
+        <img src="https://img.shields.io/badge/Instrumentation-0A0F08?style=flat-square&labelColor=0A0F08" alt="Instrumentation" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/abdiaziz-abd/hydraulic-fracturing-thesis">Hydraulic Fracturing Thesis</a></h4>
       <p>MSc research optimising hydraulic fracturing through microseismic monitoring — event detection, localisation and noise suppression with machine-learning methods.</p>
       <p>
-        <img src="https://img.shields.io/badge/Microseismic-0D1117?style=flat-square" alt="Microseismic" />
-        <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Petrel-0D1117?style=flat-square" alt="Petrel" />
+        <img src="https://img.shields.io/badge/Microseismic-0A0F08?style=flat-square&labelColor=0A0F08" alt="Microseismic" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-0A0F08?style=flat-square&labelColor=0A0F08" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Petrel-0A0F08?style=flat-square&labelColor=0A0F08" alt="Petrel" />
       </p>
     </td>
   </tr>
@@ -81,16 +81,16 @@ and I build the instrumentation and web tooling that makes that work legible.
       <h4><a href="https://github.com/abdiaziz-abd/Plunger-Pumps">Plunger Pumps</a></h4>
       <p>Visual breakdown of plunger-pump operation and maintenance for artificial-lift and pressure-pumping systems.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E85D04" alt="HTML" />
-        <img src="https://img.shields.io/badge/Production%20Equipment-0D1117?style=flat-square" alt="Production Equipment" />
+        <img src="https://img.shields.io/badge/HTML-0A0F08?style=flat-square&logo=html5&logoColor=CAFF3C&labelColor=0A0F08" alt="HTML" />
+        <img src="https://img.shields.io/badge/Production%20Equipment-0A0F08?style=flat-square&labelColor=0A0F08" alt="Production Equipment" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://abdiaziz-abd.github.io">Portfolio Site</a></h4>
       <p>Personal portfolio covering drilling operations experience, research and field-engineering projects.</p>
       <p>
-        <img src="https://img.shields.io/badge/GitHub%20Pages-0D1117?style=flat-square&logo=githubpages&logoColor=E85D04" alt="GitHub Pages" />
-        <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=E85D04" alt="CSS" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-0A0F08?style=flat-square&logo=githubpages&logoColor=CAFF3C&labelColor=0A0F08" alt="GitHub Pages" />
+        <img src="https://img.shields.io/badge/CSS-0A0F08?style=flat-square&logo=css3&logoColor=CAFF3C&labelColor=0A0F08" alt="CSS" />
       </p>
     </td>
   </tr>
@@ -100,7 +100,7 @@ and I build the instrumentation and web tooling that makes that work legible.
 
 ---
 
-### Field record
+### `>_` Field record
 
 | | |
 | --- | --- |
@@ -112,14 +112,14 @@ and I build the instrumentation and web tooling that makes that work legible.
 
 ---
 
-### Certifications
+### `>_` Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/IWCF-Well%20Control-0D1117?style=flat-square&labelColor=E85D04" alt="IWCF Well Control" />
-  <img src="https://img.shields.io/badge/NEBOSH-International%20General%20Certificate-0D1117?style=flat-square&labelColor=E85D04" alt="NEBOSH IGC" />
-  <img src="https://img.shields.io/badge/OPITO-BOSIET%20with%20EBS-0D1117?style=flat-square&labelColor=E85D04" alt="OPITO BOSIET with EBS" />
-  <img src="https://img.shields.io/badge/OPITO-H2S%20Basic%20(9014)-0D1117?style=flat-square&labelColor=E85D04" alt="OPITO H2S Basic" />
-  <img src="https://img.shields.io/badge/Rigging%20and%20Lifting-Certified-0D1117?style=flat-square&labelColor=E85D04" alt="Rigging and Lifting" />
+  <img src="https://img.shields.io/badge/IWCF-Well%20Control-0A0F08?style=flat-square&labelColor=CAFF3C" alt="IWCF Well Control" />
+  <img src="https://img.shields.io/badge/NEBOSH-International%20General%20Certificate-0A0F08?style=flat-square&labelColor=CAFF3C" alt="NEBOSH IGC" />
+  <img src="https://img.shields.io/badge/OPITO-BOSIET%20with%20EBS-0A0F08?style=flat-square&labelColor=CAFF3C" alt="OPITO BOSIET with EBS" />
+  <img src="https://img.shields.io/badge/OPITO-H2S%20Basic%20(9014)-0A0F08?style=flat-square&labelColor=CAFF3C" alt="OPITO H2S Basic" />
+  <img src="https://img.shields.io/badge/Rigging%20and%20Lifting-Certified-0A0F08?style=flat-square&labelColor=CAFF3C" alt="Rigging and Lifting" />
 </p>
 
 <sub>All current; verification on request.</sub>
@@ -131,6 +131,6 @@ and I build the instrumentation and web tooling that makes that work legible.
   <a href="mailto:anwernuur@gmail.com">anwernuur@gmail.com</a> · +974 3349 3961
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E85D04,50:8A3A0E,100:1A1A1A&height=100&section=footer" alt="" />
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=110&section=footer&animation=fadeIn" alt="" />
+</div>
