@@ -19,12 +19,6 @@
   <a href="https://github.com/abdiaziz-abd"><img src="https://img.shields.io/badge/GITHUB-0A0F08?style=for-the-badge&logo=github&logoColor=CAFF3C&labelColor=0A0F08" alt="GitHub" /></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdiaziz-abd&label=PROFILE+VIEWS&color=CAFF3C&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abdiaziz-abd?style=flat-square&logo=github&logoColor=CAFF3C&label=FOLLOWERS&labelColor=0A0F08&color=CAFF3C" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/abdiaziz-abd?style=flat-square&logo=github&logoColor=CAFF3C&label=STARS&labelColor=0A0F08&color=CAFF3C" alt="GitHub stars" />
-</div>
-
 ---
 
 ### `$ cat about.md`
