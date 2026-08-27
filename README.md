@@ -2,6 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=210&fontColor=CAFF3C&text=%3E_%20Abdiaziz%20Mohamed%20Abdi&fontSize=38&fontAlignY=34&desc=Petroleum%20Engineer%20(MSc)%20%C2%B7%20Drilling%20%26%20Well%20Operations%20%C2%B7%20HSE&descColor=8AFF57&descSize=15&descAlignY=52&animation=fadeIn" alt="Abdiaziz Mohamed Abdi — Petroleum Engineer (MSc)" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&height=60&pause=1200&repeat=true&lines=%24+whoami+%E2%86%92+Petroleum+Engineer+(MSc)%2C+rig-floor+drilling+ops;%24+skills+%E2%86%92+Well+Control+%7C+Mud+Engineering+%7C+HSE+%7C+Petrel;%24+cat+open-to.txt+%E2%86%92+Drilling+%2F+Well+Operations+%E2%80%94+Qatar%2C+KSA%2C+MENA" alt="whoami: Petroleum Engineer (MSc), rig-floor drilling ops. Skills: well control, mud engineering, HSE, Petrel. Open to drilling and well-operations roles in Qatar, KSA and MENA." />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abdiaziz-petroleum"><img src="https://img.shields.io/badge/LinkedIn-abdiaziz--petroleum-0A0F08?style=flat-square&logo=linkedin&logoColor=CAFF3C&labelColor=0A0F08" alt="LinkedIn" /></a>
   <a href="https://abdiaziz-abd.github.io"><img src="https://img.shields.io/badge/Portfolio-abdiaziz--abd.github.io-0A0F08?style=flat-square&logo=githubpages&logoColor=CAFF3C&labelColor=0A0F08" alt="Portfolio" /></a>
